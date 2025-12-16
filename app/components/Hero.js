@@ -9,7 +9,7 @@ export default function Hero() {
             Hardware + Software Platform
           </div>
           <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
-            Gas supply, automated.
+           Never Run Out Of Cooking Gas
           </h1>
           <p className="text-2xl text-gray-600 mb-10 max-w-3xl">
             BuyGas provides real-time monitoring and automated replenishment for gas cylinders, eliminating manual tracking and supply uncertainty for households and businesses.
