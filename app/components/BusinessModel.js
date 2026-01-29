@@ -8,48 +8,55 @@ export default function BusinessModel() {
             <div className="w-12 h-0.5 bg-blue-600 mr-4"></div>
             <h2 className="text-3xl font-bold">Business Model</h2>
           </div>
-          <h3 className="text-4xl font-bold mb-12">Hardware margin + recurring SaaS fees + transaction revenue.</h3>
+          <h3 className="text-4xl font-bold mb-12">Asset-light technology distributor with multiple recurring revenue streams.</h3>
           <div className="grid md:grid-cols-3 gap-8">
-            <div className="bg-white p-8 rounded-2xl border border-gray-200">
+            <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm">
               <div className="text-4xl font-bold text-blue-600 mb-4">1</div>
-              <h4 className="text-2xl font-bold mb-4">Hardware Sale</h4>
-              <p className="text-gray-600 mb-6">One‑time purchase of sensor device at ~$120 with 45% gross margin.</p>
-              <div className="text-sm text-gray-500">Revenue Stream</div>
-              <div className="text-2xl font-bold">$54 margin/unit</div>
+              <h4 className="text-2xl font-bold mb-4">Gas Sales & Distribution</h4>
+              <p className="text-gray-600 mb-6">Margin on every kg of LPG sold through our platform to Prepaid (B2C) and Postpaid (B2B) customers.</p>
+              <div className="text-sm text-gray-500">Core Revenue Driver</div>
+              <div className="text-2xl font-bold">Per kg Margin + Volume</div>
             </div>
-            <div className="bg-white p-8 rounded-2xl border border-gray-200">
+            <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm">
               <div className="text-4xl font-bold text-blue-600 mb-4">2</div>
-              <h4 className="text-2xl font-bold mb-4">SaaS Subscription</h4>
-              <p className="text-gray-600 mb-6">Monthly platform fee of $5‑$15 per cylinder for monitoring, analytics, and predictive features.</p>
-              <div className="text-sm text-gray-500">Annual Recurring Revenue</div>
-              <div className="text-2xl font-bold">$60‑$180/cylinder</div>
+              <h4 className="text-2xl font-bold mb-4">Subscription & Service Fees</h4>
+              <p className="text-gray-600 mb-6">
+                <span className="font-semibold">B2B:</span> Monthly Smart-as-a-Service fee.<br/>
+                <span className="font-semibold">B2C:</span> Prepaid subscription charges.
+              </p>
+              <div className="text-sm text-gray-500">Recurring Revenue</div>
+              <div className="text-2xl font-bold">High Retention</div>
             </div>
-            <div className="bg-white p-8 rounded-2xl border border-gray-200">
+            <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm">
               <div className="text-4xl font-bold text-blue-600 mb-4">3</div>
-              <h4 className="text-2xl font-bold mb-4">Transaction Fee</h4>
-              <p className="text-gray-600 mb-6">2‑3% commission on each gas refill ordered through our platform.</p>
-              <div className="text-sm text-gray-500">Take Rate</div>
-              <div className="text-2xl font-bold">2.5% per refill</div>
+              <h4 className="text-2xl font-bold mb-4">Platform & Data Monetization</h4>
+              <p className="text-gray-600 mb-6">Licensing fees to B2B partners, data analytics subscriptions, and delivery commissions from the ecosystem.</p>
+              <div className="text-sm text-gray-500">High-Margin Streams</div>
+              <div className="text-2xl font-bold">Platform Leverage</div>
             </div>
           </div>
-          <div className="mt-12 bg-blue-50 p-8 rounded-2xl">
-            <h4 className="text-2xl font-bold mb-4">Unit Economics (Year 1)</h4>
-            <div className="grid md:grid-cols-4 gap-6">
-              <div>
-                <div className="text-sm text-gray-500">CAC</div>
-                <div className="text-2xl font-bold">$85</div>
+          <div className="mt-12 bg-blue-50 p-8 rounded-2xl border border-blue-100">
+            <h4 className="text-2xl font-bold mb-6 text-gray-800">Strategic Capital Efficiency</h4>
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+              <div className="bg-white p-6 rounded-xl">
+                <div className="text-sm text-gray-500 mb-2">Low Initial CapEx</div>
+                <div className="text-2xl font-bold">No Plant Ownership</div>
+                <p className="text-gray-600 text-sm mt-2">Saves over N11M. Partner with existing filling plants.</p>
               </div>
-              <div>
-                <div className="text-sm text-gray-500">LTV</div>
-                <div className="text-2xl font-bold">$420</div>
+              <div className="bg-white p-6 rounded-xl">
+                <div className="text-sm text-gray-500 mb-2">B2B Lock-in</div>
+                <div className="text-2xl font-bold">Asset Provision</div>
+                <p className="text-gray-600 text-sm mt-2">Providing cylinders & meters creates strong customer retention.</p>
               </div>
-              <div>
-                <div className="text-sm text-gray-500">Payback Period</div>
-                <div className="text-2xl font-bold">10 months</div>
+              <div className="bg-white p-6 rounded-xl">
+                <div className="text-sm text-gray-500 mb-2">Superior Unit Economics</div>
+                <div className="text-2xl font-bold">Target Model</div>
+                <p className="text-gray-600 text-sm mt-2">Designed to achieve strong LTV/CAC, attracting scale capital.</p>
               </div>
-              <div>
-                <div className="text-sm text-gray-500">Gross Margin</div>
-                <div className="text-2xl font-bold">68%</div>
+              <div className="bg-white p-6 rounded-xl">
+                <div className="text-sm text-gray-500 mb-2">Green Capital Access</div>
+                <div className="text-2xl font-bold">Grant Eligibility</div>
+                <p className="text-gray-600 text-sm mt-2">Clean energy tech focus opens non-dilutive funding avenues.</p>
               </div>
             </div>
           </div>

@@ -8,34 +8,34 @@ export default function WhyNow() {
             <div className="w-12 h-0.5 bg-blue-600 mr-4"></div>
             <h2 className="text-3xl font-bold">Why Now</h2>
           </div>
-          <h3 className="text-4xl font-bold mb-8">Convergence of technology readiness and market demand.</h3>
+          <h3 className="text-4xl font-bold mb-8">Perfect alignment with national policy, market need, and technological feasibility.</h3>
           <div className="space-y-8">
             <div className="flex items-start">
-              <div className="text-2xl font-bold text-blue-600 mr-6">1</div>
+              <div className="text-2xl font-bold text-blue-600 mr-6 flex-shrink-0">1</div>
               <div>
-                <h4 className="text-xl font-bold mb-2">IoT Maturity</h4>
-                <p className="text-gray-600">Low‑power wide‑area networks (LoRaWAN, NB‑IoT) now provide affordable, reliable connectivity for millions of sensors.</p>
+                <h4 className="text-xl font-bold mb-2">Government Policy Push</h4>
+                <p className="text-gray-600">Nigeria's National LPG Expansion Plan (5M MT by 2030) and Clean Cooking Policy create unprecedented regulatory tailwinds and addressable market growth.</p>
               </div>
             </div>
             <div className="flex items-start">
-              <div className="text-2xl font-bold text-blue-600 mr-6">2</div>
+              <div className="text-2xl font-bold text-blue-600 mr-6 flex-shrink-0">2</div>
               <div>
-                <h4 className="text-xl font-bold mb-2">Supply Chain Digitalization</h4>
-                <p className="text-gray-600">Gas distributors are actively seeking technology partners to improve efficiency and customer retention.</p>
+                <h4 className="text-xl font-bold mb-2">Critical Unmet Need</h4>
+                <p className="text-gray-600">The high upfront refill cost remains the primary adoption barrier for households. SMEs lack tools for LPG cost tracking. No solution addresses both.</p>
               </div>
             </div>
             <div className="flex items-start">
-              <div className="text-2xl font-bold text-blue-600 mr-6">3</div>
+              <div className="text-2xl font-bold text-blue-600 mr-6 flex-shrink-0">3</div>
               <div>
-                <h4 className="text-xl font-bold mb-2">Economic Pressure</h4>
-                <p className="text-gray-600">Rising operational costs force commercial kitchens to eliminate waste and downtime.</p>
+                <h4 className="text-xl font-bold mb-2">Technology Readiness</h4>
+                <p className="text-gray-600">IoT hardware costs have fallen. Mobile money/USSD penetration enables our Prepaid model. Cloud platforms allow scalable, real-time data management.</p>
               </div>
             </div>
             <div className="flex items-start">
-              <div className="text-2xl font-bold text-blue-600 mr-6">4</div>
+              <div className="text-2xl font-bold text-blue-600 mr-6 flex-shrink-0">4</div>
               <div>
-                <h4 className="text-xl font-bold mb-2">Regulatory Push</h4>
-                <p className="text-gray-600">Governments mandate safer LPG handling and accurate tracking, creating compliance demand.</p>
+                <h4 className="text-xl font-bold mb-2">First-Mover Advantage</h4>
+                <p className="text-gray-600">Very little to no competition on the integrated IoT + dual-subscription model in Nigeria. The time to build a dominant tech-enabled network is now.</p>
               </div>
             </div>
           </div>
