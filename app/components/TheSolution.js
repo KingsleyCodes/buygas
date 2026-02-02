@@ -31,7 +31,7 @@ export default function TheSolution() {
                   <div className="w-5 h-5 rounded-full bg-green-100 flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
                     <div className="w-2 h-2 bg-green-600 rounded-full"></div>
                   </div>
-                  <span className="text-gray-700"><span className="font-semibold">Overcomes Barrier:</span> Eliminates the N10,000-N25,000 lump-sum refill cost.</span>
+                  <span className="text-gray-700"><span className="font-semibold">Overcomes Large upfront refil sums</span> Allows Households/Businesses to only pay for what theey use</span>
                 </li>
                 <li className="flex items-start">
                   <div className="w-5 h-5 rounded-full bg-green-100 flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
